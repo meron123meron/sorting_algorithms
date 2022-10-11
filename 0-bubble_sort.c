@@ -14,6 +14,7 @@ int switchs;
 if (size < 2)
 return;
 
+
 n = 0;
 while (n < size)
 {
